@@ -1,5 +1,8 @@
 # Companimal Cabinet
 
+![Static Badge](https://img.shields.io/badge/github_pages-121013?logo=GitHub)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 This repository has been created to store and publish content for https://cabinet.companimal.net, including various artworks and resources.
 
 ## Sizes
@@ -11,12 +14,16 @@ This repository has been created to store and publish content for https://cabine
 
 ## URLs
 
-|   Size   | URL                                                     |                 Preview                 |
-| :------: | ------------------------------------------------------- | :-------------------------------------: |
-|  Small   | https://cabinet.companimal.net/avatars/dog/small/1.png  | ![Dog Small](/avatars/dog/small/1.png)  |
-|  Medium  | https://cabinet.companimal.net/avatars/dog/medium/1.png | ![Dog Small](/avatars/dog/medium/1.png) |
-|  Large   | https://cabinet.companimal.net/avatars/dog/large/1.png  | ![Dog Small](/avatars/dog/large/1.png)  |
-| Original | https://cabinet.companimal.net/avatars/dog/1.png        |    ![Dog Small](/avatars/dog/1.png)     |
+Scheme + Domain : https://cabinet.companimal.net
+
+|   Size   | Path                                                                                 |                 Preview                 |
+| :------: | ------------------------------------------------------------------------------------ | :-------------------------------------: |
+|  Small   | [/avatars/dog/small/1.png](https://cabinet.companimal.net/avatars/small/dog/1.png)   | ![Dog Small](/avatars/dog/small/1.png)  |
+|  Medium  | [/avatars/dog/medium/1.png](https://cabinet.companimal.net/avatars/medium/dog/1.png) | ![Dog Small](/avatars/dog/medium/1.png) |
+|  Large   | [/avatars/dog/large/1.png](https://cabinet.companimal.net/avatars/dog/large/1.png)   | ![Dog Small](/avatars/dog/large/1.png)  |
+| Original | [/avatars/dog/1.png](https://cabinet.companimal.net/avatars/dog/1.png)               |    ![Dog Small](/avatars/dog/1.png)     |
+
+For example, https://cabinet.companimal.net/avatars/dog/1.png
 
 ## Showcase
 
@@ -149,4 +156,4 @@ This repository has been created to store and publish content for https://cabine
 
 ## License
 
-Artworks © 2020 by Samgu Lee is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
+[Artworks](https://github.com/companimal/cabinet) © 2020 by [Companimal](https://www.companimal.net) is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
