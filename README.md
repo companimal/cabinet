@@ -154,6 +154,18 @@ For example, https://cabinet.companimal.net/avatars/dog/1.png
 ![Cat 40](/avatars/cat/medium/40.png)
 ![Cat 41](/avatars/cat/medium/41.png)
 
+### Animal artworks
+
+![Animal 1](/avatars/animal/medium/1.png)
+![Animal 2](/avatars/animal/medium/2.png)
+![Animal 3](/avatars/animal/medium/3.png)
+![Animal 4](/avatars/animal/medium/4.png)
+![Animal 5](/avatars/animal/medium/5.png)
+![Animal 6](/avatars/animal/medium/6.png)
+![Animal 7](/avatars/animal/medium/7.png)
+![Animal 8](/avatars/animal/medium/8.png)
+![Animal 9](/avatars/animal/medium/9.png)
+
 ## License
 
 [Artworks](https://github.com/companimal/cabinet) © 2020 by [Companimal](https://www.companimal.net) is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
